@@ -7,7 +7,7 @@ The goal of this repo is not just to show that I completed guided labs, but to d
 ## Lab Scope
 
 | Lab | Focus Area | Core Services / Technologies | What It Demonstrates |
-|---|---|---|---|
+|----|----|----|----|
 | Lab 1 | Hybrid networking | Azure Virtual Network, VPN Gateway, Local Network Gateway, RRAS, Private DNS, Windows Server, Windows 11 | Site-to-site connectivity, routing, DNS, hybrid design |
 | Lab 2 | Storage solutions | Azure Storage Account, Azure Files, Azure File Sync, Entra ID, Windows Server, Windows 11 | Hybrid file services, sync, share access, snapshot testing |
 | Lab 3 | Serverless compute | Azure Functions, Cosmos DB, Storage Account Static Website | Frontend/backend integration, serverless app hosting, NoSQL basics |
